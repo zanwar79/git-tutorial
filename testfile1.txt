@@ -1,3 +1,4 @@
+Bob changes top of file.
 Hello World
 This is a second line of text.
 This is a third line added by Alice.
